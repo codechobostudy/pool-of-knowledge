@@ -1,14 +1,14 @@
 # Not ignore markdown files.
-!*..markdown
-!*..mdown
-!*..mkdn
-!*..md
-!*..mkd
-!*..mdwn
-!*..mdtxt
-!*..mdtext
-!*..text
-!*..Rmd
+!*.markdown
+!*.mdown
+!*.mkdn
+!*.md
+!*.mkd
+!*.mdwn
+!*.mdtxt
+!*.mdtext
+!*.text
+!*.Rmd
 
 # Not ignore .gitginore.
 !.gitignore
