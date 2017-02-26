@@ -1,3 +1,17 @@
-!*.md
+# Not ignore markdown files.
+!*..markdown
+!*..mdown
+!*..mkdn
+!*..md
+!*..mkd
+!*..mdwn
+!*..mdtxt
+!*..mdtext
+!*..text
+!*..Rmd
+
+# Not ignore .gitginore.
 !.gitignore
+
+# Not ignore template of GITHUB.
 !.GITHUB/
