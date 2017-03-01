@@ -1,0 +1,16 @@
+# for all hidden files
+.*
+
+# not ignore
+!.github/
+!.gitattributes
+!.gitignore
+
+# for eclipse
+target
+bin
+tmp
+
+# for IntelliJ
+target
+*.impl
